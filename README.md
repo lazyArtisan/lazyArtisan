@@ -1,4 +1,4 @@
-### Hello there 👋
+### 👋 Hello there 
 
 * I graduated from the University of Seoul with a degree in Physics
 * I worked in the Income Statistics Division at [KOSTAT](https://kostat.go.kr/anse/) for 1 year and 4 months
