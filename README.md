@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+<br>
+
 ## 💻 About Me
 
 * I graduated from the University of Seoul with a degree in Physics
