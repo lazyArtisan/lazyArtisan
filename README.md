@@ -1,16 +1,23 @@
-## Hi there 👋
+## 💻 About Me
 
-<!--
-**lazyArtisan/lazyArtisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I graduated from the University of Seoul with a degree in Physics
+* I worked in the Income Statistics Division at KOSTAT for 1 year and 4 months
+* I am currently aspiring to become a game programmer
 
-Here are some ideas to get you started:
+## ✏️ Study
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesoft)](https://solved.ac/biomatrix117/)
+
+* I'm currently studying at [KRAFTON JUNGLE](https://jungle.krafton.com/).
+* I usually use these languages : Python, C#
+* I experienced these languages : Python, C#, C, VBA
+* I experienced these tools/frameworks : Unity, Figma, HTML/CSS/JS, jQuery.
+
+## 🔗 Contacts
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lazyArtisan)](https://velog.io/@lazyArtisan)
+* Email : [biomatrix117@naver.com](biomatrix117@naver.com)
+* Velog : [https://velog.io/@biomatrix117](https://velog.io/@biomatrix117)
+* Blog : [https://lazyartisan.tistory.com/](https://lazyartisan.tistory.com/)
+
+
