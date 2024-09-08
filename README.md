@@ -6,7 +6,7 @@
 
 ## ✏️ Study
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesoft)](https://solved.ac/biomatrix117/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=biomatrix117)](https://solved.ac/biomatrix117/)
 
 * I'm currently studying at [KRAFTON JUNGLE](https://jungle.krafton.com/).
 * I usually use these languages : Python, C#
