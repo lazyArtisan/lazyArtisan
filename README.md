@@ -1,3 +1,5 @@
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Taehwan Ko</h3>
+
 ## 💻 About Me
 
 * I graduated from the University of Seoul with a degree in Physics
@@ -8,7 +10,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=biomatrix117)](https://solved.ac/biomatrix117/)
 
-* I'm currently studying Computer Science at [KRAFTON JUNGLE](https://jungle.krafton.com/)
+* I've studied Computer Science at [KRAFTON JUNGLE](https://jungle.krafton.com/) for 5 months
 * I usually use these languages : Python, C#
 * I experienced these languages : Python, C#, C, VBA
 * I experienced these tools/frameworks : Unity, Figma, HTML/CSS/JS, jQuery.
