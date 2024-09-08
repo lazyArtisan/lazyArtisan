@@ -5,9 +5,6 @@
 * I am currently aspiring to become a game programmer
 * I studied Computer Science at [KRAFTON JUNGLE](https://jungle.krafton.com/) for 5 months
 
-### 🔗 Contacts
-
-* Email : [biomatrix117@naver.com](biomatrix117@naver.com)
 * Velog : [https://velog.io/@biomatrix117](https://velog.io/@biomatrix117)
 * Blog : [https://lazyartisan.tistory.com/](https://lazyartisan.tistory.com/)
 
