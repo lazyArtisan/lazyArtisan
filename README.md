@@ -15,7 +15,6 @@
 
 ## 🔗 Contacts
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lazyArtisan)](https://velog.io/@lazyArtisan)
 * Email : [biomatrix117@naver.com](biomatrix117@naver.com)
 * Velog : [https://velog.io/@biomatrix117](https://velog.io/@biomatrix117)
 * Blog : [https://lazyartisan.tistory.com/](https://lazyartisan.tistory.com/)
