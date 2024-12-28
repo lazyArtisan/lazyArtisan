@@ -1,8 +1,4 @@
 **Hello there 👋**
-- I graduated from the University of Seoul with a degree in Physics
-- I worked in the Income Statistics Division at KOSTAT for 1 year and 4 months
-- I am currently aspiring to become a game programmer
-- I studied Computer Science at KRAFTON JUNGLE for 5 months
 
 **Stacks**
 <p>
